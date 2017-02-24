@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.boot.test</groupId>
     <artifactId>test-boot</artifactId>
-    <!--<packaging>war</packaging>-->
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
+    <!--<packaging>jar</packaging>-->
     <version>1.0-SNAPSHOT</version>
     <name>test-boot Maven Webapp</name>
     <url>http://maven.apache.org</url>
